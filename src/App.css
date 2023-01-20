@@ -13,4 +13,10 @@ input , button{
   margin: 5px;
 }
 
+.food{
+  width:500px;
+  height:250px;
+  border:2px solid black;
+  margin: 10px
+}
 
